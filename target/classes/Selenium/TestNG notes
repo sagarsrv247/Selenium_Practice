@@ -1,0 +1,21 @@
+TestNG - unit testing framework (Test New Generation)
+also known as TDD - Test Driven Development framework
+Also known as Java unit testing framework.
+
+Purpose-  Used for writing automation test cases with Selenium in a systematuc way and generates HTML reports
+
+Uses:
+-Gives different annotations.
+-Can set the priorities/sequence of the testcase execution.
+-Define different dependencies.
+--Can group test cases.
+-has data provide feature.
+
+
+Features:
+It is an open source framework.
+Available in the form of jar file.
+Each language has there seperate testing framework.
+
+
+Install testNG in Eclipse 

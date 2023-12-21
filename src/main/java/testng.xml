@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestNg xml sample">
+    <test name="Different features of test">
+         <classes>
+             <class name="com.test.GoogleTitleTest"/>
+             <class name="com.test.GoogleTest"/>
+             <class name="com.test.TestNGFeatures"/>
+          </classes>
+     </test> <!-- Test -->
+</suite> <!-- Suite -->

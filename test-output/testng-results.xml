@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-30T10:41:41 IST" name="Default suite" finished-at="2023-09-30T10:41:41 IST" duration-ms="645">
+    <groups>
+    </groups>
+    <test started-at="2023-09-30T10:41:41 IST" name="Default test" finished-at="2023-09-30T10:41:41 IST" duration-ms="645">
+      <class name="Selenium.StoredFunctionsTestingDB">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Selenium.StoredFunctionsTestingDB@6743e411]" started-at="2023-09-30T10:41:41 IST" name="setup" finished-at="2023-09-30T10:41:41 IST" duration-ms="428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test_storedFunctionExists()[pri:1, instance:Selenium.StoredFunctionsTestingDB@6743e411]" started-at="2023-09-30T10:41:41 IST" name="test_storedFunctionExists" finished-at="2023-09-30T10:41:41 IST" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_storedFunctionExists -->
+        <test-method signature="test_CustomerLevel_with_Sql()[pri:2, instance:Selenium.StoredFunctionsTestingDB@6743e411]" started-at="2023-09-30T10:41:41 IST" name="test_CustomerLevel_with_Sql" finished-at="2023-09-30T10:41:41 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_CustomerLevel_with_Sql -->
+        <test-method signature="test_CustomerLevel_with_StoredProcedure()[pri:3, instance:Selenium.StoredFunctionsTestingDB@6743e411]" started-at="2023-09-30T10:41:41 IST" name="test_CustomerLevel_with_StoredProcedure" finished-at="2023-09-30T10:41:41 IST" duration-ms="107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_CustomerLevel_with_StoredProcedure -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Selenium.StoredFunctionsTestingDB@6743e411]" started-at="2023-09-30T10:41:41 IST" name="tearDown" finished-at="2023-09-30T10:41:41 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Selenium.StoredFunctionsTestingDB -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
